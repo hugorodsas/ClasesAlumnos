@@ -1,0 +1,4 @@
+Ramiro;5,6
+Lucia;8,9
+Ramon;5.4
+Lucas;10.0
